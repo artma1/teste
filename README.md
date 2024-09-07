@@ -11,7 +11,7 @@ Você também pode acessá-los por aqui:
 
 <a href ="EncontrarSoma/src/EncontrarSoma.java">3 - Encontrar Soma </a>
 
-<a href ="Logica/src/Logica.java">5 - Sequencia Lógica </a>
+<a href ="Logica/src/Logica.java">4 - Sequencia Lógica </a>
 
 <a href ="Lampada/src/Lampada.java">5 - Lâmpada </a>
 
