@@ -15,5 +15,6 @@ public class EncontrarSoma {
             SOMA += K;
         }
         System.out.println("O valor da variável SOMA é: "+ SOMA);
+        //Valor: 77
     }
 }
